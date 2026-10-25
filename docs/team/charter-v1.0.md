@@ -9,10 +9,11 @@
 | 曹文 | geiwocapixie | 队长（Scrum Master / 仓库管理员） |
 | 向宇航 | 11ccdd11 | Developer |
 | 鲍欣宇 | sdghfdghjfg | Developer |
-| 杨杰 | 18112615031 | Developer |
+| 杨杰 | 18112615031 | Product Owner（产品负责人） |
 | 林纹宇 | liny-cybe | Developer |
 
 队长职责：维护仓库与协作工具链、主持 Sprint 会议、评审与合并 PR、把控整体进度。
+PO 职责：维护 Product Backlog 的排序与验收标准，主持故事地图共建与 Sprint Review 验收环节。
 队员职责：承担编码、测试与文档任务；参与代码评审；对提交的每个 PR 质量负责。
 
 ## 2. 团队价值观
@@ -84,6 +85,7 @@
 | 版本 | 日期 | 变更内容 | 修改人 |
 | --- | --- | --- | --- |
 | v1.0 | 2026-10-25 | 首次发布 | 曹文 |
+| v1.1 | 2026-10-26 | 明确 PO 角色：杨杰任 Product Owner，其余角色与条款不变 | 曹文 |
 
 ## 8. 成员签署
 
