@@ -1,6 +1,6 @@
-# CampusOverflow 团队章程 v1.0
+# CampusOverflow 团队章程
 
-> 生效日期：2026-10-25　版本：v1.0　适用范围：软件工程课程 CampusOverflow 项目全体成员
+> 生效日期：2026-10-25　版本：v1.2　适用范围：软件工程课程 CampusOverflow 项目全体成员
 
 ## 1. 团队与角色
 
@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | 曹文 | geiwocapixie | 队长（Scrum Master / 仓库管理员） |
 | 向宇航 | 11ccdd11 | Developer |
-| 鲍欣宇 | sdghfdghjfg | Developer |
+| 鲍欣宇 | sdgfhdhsg | Developer |
 | 杨杰 | 18112615031 | Product Owner（产品负责人） |
 | 林纹宇 | liny-cybe | Developer |
 
@@ -86,6 +86,7 @@ PO 职责：维护 Product Backlog 的排序与验收标准，主持故事地图
 | --- | --- | --- | --- |
 | v1.0 | 2026-10-25 | 首次发布 | 曹文 |
 | v1.1 | 2026-10-26 | 明确 PO 角色：杨杰任 Product Owner，其余角色与条款不变 | 曹文 |
+| v1.2 | 2026-10-26 | 修正鲍欣宇的 GitHub 登录名为 `sdgfhdhsg`（原记录误填其显示名 `sdghfdghjfg`） | 曹文 |
 
 ## 8. 成员签署
 
